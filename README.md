@@ -1,6 +1,6 @@
 # Heroku-Rapidleech
 
-`git clone https://github.com/HasibulKabir/Heroku-Rapidleech`
+`git clone https://github.com/XI11A/Heroku-Rapidleech`
 
 `cd Heroku-Rapidleech`
 
