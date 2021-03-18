@@ -1,4 +1,4 @@
-FROM php:5.6-apache
+FROM php:7.4.15-apache
 
 # Installing packages
 RUN apt-get update && \
